@@ -1,0 +1,14 @@
+{
+  "name": "xiaozhushou-ai-proxy",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Secure server-side proxy for image-capable AI nutrition recognition",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
